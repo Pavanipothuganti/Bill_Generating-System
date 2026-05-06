@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+bills/
+
+*.exe
+*.mp4
